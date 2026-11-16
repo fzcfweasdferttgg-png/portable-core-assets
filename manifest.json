@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "path": "native/build/asr_worker/cublas64_13.dll",
+      "size": 55212656,
+      "sha256": "db5a1d5a0ed0ef126e005fc7449d3584353aaeb8739a18d716fe74be1254a3da"
+    },
+    {
+      "path": "native/build/asr_worker/cublasLt64_13.dll",
+      "size": 499102832,
+      "sha256": "ca478e1ea932f883ef4fc284f8f33d910079df4e77f9a2ec38d9b4387795f96f"
+    },
+    {
+      "path": "native/build/asr_worker/ggml-cuda.dll",
+      "size": 148410880,
+      "sha256": "a707bc7b3488b0660189559455a6c33595a5eb697dbf46a50d6ca93831658267"
+    }
+  ]
+}
